@@ -15,7 +15,6 @@ This project builds a robust machine learning workflow by integrating DevOps pri
 5. [Data Source](#data-source)
 6. [Getting Started](#getting-started)
 7. [Accessing the Services](#accessing-the-services)
-8. [Notes and Troubleshooting](#notes-and-troubleshooting)
 
 ---
 
@@ -90,3 +89,9 @@ To set up and run this project, follow these steps:
     docker exec -it [container ID] /bin/bash
     python train.py
     ```
+
+## Accessing the Services
+
+MLFlow Server: Accessible at http://127.0.0.1:5000
+MinIO Server: Accessible at http://127.0.0.1:9000
+NGINX Proxy: Accessible at http://127.0.0.1
