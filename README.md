@@ -92,6 +92,6 @@ To set up and run this project, follow these steps:
 
 ## Accessing the Services
 
-MLFlow Server: Accessible at http://127.0.0.1:5000
-MinIO Server: Accessible at http://127.0.0.1:9000
-NGINX Proxy: Accessible at http://127.0.0.1
+- MLFlow Server: Accessible at http://127.0.0.1:5000
+- MinIO Server: Accessible at http://127.0.0.1:9000
+- NGINX Proxy: Accessible at http://127.0.0.1
