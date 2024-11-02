@@ -1,4 +1,4 @@
-# MLOps-01: Microservice-Based Workflow for ML Modeling with DevOps Principles
+# MLOps: Microservice-Based Workflow for ML Modeling with DevOps Principles
 
 This project builds a robust machine learning workflow by integrating DevOps principles, Docker for containerization, and MLFlow for tracking and model management. The goal is to build, ship, and test this workflow rapidly, ensuring that each component is modular, scalable, and adaptable to different ML projects. The workflow includes a MinIO server for data storage, an MLFlow tracking server, and an NGINX proxy for secure access.
 
